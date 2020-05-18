@@ -174,6 +174,9 @@
 
         $(".login_left_side .login_input").css("text-align", "left");
 
+        //kicseréli a bejelentkezési képernyőn a képet a temetési brigádra
+        $("#div_login_right_side").css("background-image", "url(https://people.inf.elte.hu/jxtbv0/neptun_is_dead.png)");
+
         var selectField = $('<select id="user_sel" class="bevitelimezo" name="user_sel"></select>').hide();
         for(var i = 0; i < users.length; i++) {
           selectField.append('<option id="' + users[i] + '" value="' + users[i] + '" class="neptun_kod">' + users[i] + '</option>');
