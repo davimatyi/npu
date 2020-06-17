@@ -1,13 +1,15 @@
 Neptun PowerUp!
 ===============
 
-Ez a **Neptun PowerUp!** hivatalos oldala.
+Ez a **Neptun PowerUp!** módosított változata. Az eredeti plugin [itt található meg](https://github.com/solymosi/npu).<br>
 
-A program **felturbózza a Neptun-odat**: gyorsabb tárgy- és vizsgafelvétel, kidobás elleni védelem, automatikus belépés, könnyebben kezelhető felület, tárolható belépési adatok, és még sok más. 25 egyetem és főiskola **több mint 15 ezer** diákjának életét könnyíti meg már 2011 óta.
+## Változtatások az eredetihez képest
+* A Neptun bejelentkező képernyőjén az alap kép ki van cserélve egy coffin dance gifre.
+
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **1.52.9**
+* Legfrissebb verzió: **1.52.9.1**
 * Kiadás dátuma: **2020. június 10.**
 
 Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/davimatyi/npu/raw/master/npu.user.js).<br>
