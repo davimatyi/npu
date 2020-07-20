@@ -25,7 +25,7 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
     * [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
     * [Legacy Microsoft Edge](https://www.microsoft.com/store/apps/9NBLGGH5162S)
     * [Új Microsoft Edge](https://microsoftedge.microsoft.com/insider-addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
-1. Most már telepítheted a Neptun PowerUp! szkriptet. Ehhez [kattints ide](https://github.com/solymosi/npu/raw/master/npu.user.js).
+1. Most már telepítheted a Neptun PowerUp! szkriptet. Ehhez [kattints ide](https://github.com/davimatyi/npu/raw/master/npu.user.js).
 1. A megjelenő oldalon kattints az **Install** gombra.
 1. Lépj be a Neptun-ra, és használd egészséggel.
 
