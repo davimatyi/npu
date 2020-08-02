@@ -9,8 +9,8 @@ Ez a **Neptun PowerUp!** módosított változata. Az eredeti plugin [itt találh
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **1.52.9.1**
-* Kiadás dátuma: **2020. június 10.**
+* Legfrissebb verzió: **1.52.9.2 - 2020. augusztus 02.**
+* Alapverzió: **1.52.9 - 2020. június 10.**
 
 Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/davimatyi/npu/raw/master/npu.user.js).<br>
 Egyébként olvasd el lent a telepítési útmutatót.
