@@ -1,3 +1,5 @@
+# __Figyelem! Ez a repository már nincs fenntartva__
+
 Neptun PowerUp!
 ===============
 
